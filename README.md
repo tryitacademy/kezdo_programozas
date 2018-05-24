@@ -38,6 +38,6 @@ a használatának öröméig.
 
 #### asciify
 
+| **Előtte**                        | **Utána**     |
 |:---------------------------------:|:-------------:|
-| Előtte                            | Utána         |
-| ![alt text](/img/test04.ppm)      | centered      |
+| ![alt text](img/test04.ppm)      | centered      |
