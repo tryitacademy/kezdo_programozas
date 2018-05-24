@@ -10,7 +10,13 @@ bármiféle programozási nyelvhez kötve, azt csupán mint eszközt használjuk
 
 A jelentkezésnél lehetőség van többféle programozási nyelvet megjelölni, hogy
 mindenki -*előismeret*, *hallás*, vagy *ajánlás* révén-, a számára legszimpatikusabb
-nyelvvel vághasson bele a tanulásba. 
+nyelvvel vághasson bele a tanulásba. Ezt a listát folyamatosan igyekszünk bővíteni.
+
+A tananyag felépítése miatt nem kell aggódnod, ha valamikor nem tudsz jelen lenni,
+bármikor pótolhatod egy másik csoportnál a kimaradt alkalmat, akkor is ha az a
+csoport épp egy másik nyelvet használ. A leadott anyag teljesen ugyan az, neked
+csak az általad tanult nyelvi megvalósítást kell átnézned, amit itt meg is fogsz
+találni! :)
 
 ### Tematika:
 
