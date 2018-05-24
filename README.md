@@ -9,7 +9,7 @@ lesz számodra-, hogy a bemutatott megtanult dolgok, a lehető legkevésbé legy
 bármiféle programozási nyelvhez kötve, azt csupán mint eszközt használjuk a
 tanult dolgok bemutatására, kipróbálására.
 
-A kurzus kezdetben a Python nyelvet használja, de hamarosan bővítjük a palettát,
+A kurzus kezdetben a Python és C++ nyelvet használja, de hamarosan bővítjük a palettát,
 hogy a számodra legszimpatikusabb nyelvvel vághass bele ebbe az új, izgalmas
 kalandba. A későbbi új nyelvek megjelenése a kínálatban, nem jelenti a tudásanyag
 differenciálódását. Fontosnak tartjuk, bármelyik nyelvet választod a későbbiekben
@@ -40,6 +40,6 @@ a használatának öröméig.
 
 | **Előtte**                        | **Utána**                    |
 |:---------------------------------:|:----------------------------:|
-| ![alt text](img/test04.jpg)       | ![alt text](img/ascii04.jpg) |
+| ![alt text](img/test04.jpg)       | ![alt text](img/ascii04.png) |
 
 *Megj.*: a kapott kép részletessége beállítás és felbontás függő
