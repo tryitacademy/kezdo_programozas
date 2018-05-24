@@ -41,3 +41,5 @@ a használatának öröméig.
 | **Előtte**                        | **Utána**                    |
 |:---------------------------------:|:----------------------------:|
 | ![alt text](img/test04.jpg)       | ![alt text](img/ascii04.jpg) |
+
+*Megj.*: a kapott kép részletessége beállítás és felbontás függő
