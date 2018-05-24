@@ -18,7 +18,7 @@ csoport épp egy másik nyelvet használ. A leadott anyag teljesen ugyan az, nek
 csak az általad tanult nyelvi megvalósítást kell átnézned, amit itt meg is fogsz
 találni! :)
 
-### Tematika:
+## Tematika:
 
 1.  Adatok típusai, változók, I/O
 2.  Logikai típus, elágazás
