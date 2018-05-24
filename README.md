@@ -36,8 +36,8 @@ tudásunkra szükség lesz (itt-ott picit többre is), de nagyon hasznos megtapa
 az utat egy komplettebb program tervezésétől kezdve a megvalósításon át egészen
 a használatának öröméig.
 
-| **asciify*    |               |
-|:-------------:|:-------------:|
-| Előtte        | Utána         |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
+#### asciify
+
+|:---------------------------------:|:-------------:|
+| Előtte                            | Utána         |
+| ![alt text](/img/test04.ppm)      | centered      |
