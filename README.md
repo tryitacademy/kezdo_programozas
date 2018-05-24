@@ -31,7 +31,7 @@ találni! :)
 9.  Projekt
 10. Projekt
 
-### Projekt
+## Projekt
 
 A kurzus folyamán megszerzett tudást arra fogjuk használni, hogy megvalósítsunk
 egy képkonvertáló alkalmazást az "asciify"-t. A projekt elkészítéséhez minden
