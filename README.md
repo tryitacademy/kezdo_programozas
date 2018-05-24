@@ -5,15 +5,12 @@ Megismerkedünk az programozói gondolkodásmóddal és áttekintjük az alapvet
 programozási eszközöket. A tanfolyam **nem** igényel semmiféle előismeretet, a
 tananyag ennek tükrében került összeállításra, sok-sok gyakorló példán mélyítjük
 el az új ismereteket. Törekszünk arra -szem előtt tartva, hogy ez egy új világ
-lesz számodra-, hogy a bemutatott megtanult dolgok, a lehető legkevésbé legyenek
-bármiféle programozási nyelvhez kötve, azt csupán mint eszközt használjuk a
-tanult dolgok bemutatására, kipróbálására.
+lesz számodra-, hogy a bemutatott és megtanult dolgok, a lehető legkevésbé legyenek
+bármiféle programozási nyelvhez kötve, azt csupán mint eszközt használjuk.
 
-A kurzus kezdetben a Python és C++ nyelvet használja, de hamarosan bővítjük a palettát,
-hogy a számodra legszimpatikusabb nyelvvel vághass bele ebbe az új, izgalmas
-kalandba. A későbbi új nyelvek megjelenése a kínálatban, nem jelenti a tudásanyag
-differenciálódását. Fontosnak tartjuk, bármelyik nyelvet választod a későbbiekben
-a tanulás elkezdéséhez, az elsajátított tudásanyag nem függ a kiválasztott nyelvtől.
+A jelentkezésnél lehetőség van többféle programozási nyelvet megjelölni, hogy
+mindenki -*előismeret*, *hallás*, vagy *ajánlás* révén-, a számára legszimpatikusabb
+nyelvvel vághasson bele a tanulásba. 
 
 ### Tematika:
 
