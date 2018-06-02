@@ -8,7 +8,8 @@ el az új ismereteket. Törekszünk arra -szem előtt tartva, hogy ez egy új vi
 lesz számodra-, hogy a bemutatott és megtanult dolgok, a lehető legkevésbé legyenek
 bármiféle programozási nyelvhez kötve, azt csupán mint eszközt használjuk.
 
-A jelentkezésnél lehetőség van többféle programozási nyelvet megjelölni, hogy
+A jelentkezésnél lehetőség van többféle programozási nyelvet megjelölni 
+(**jelenleg:** *C++*, **később:** *C#*, *Java*), hogy
 mindenki -*előismeret*, *hallás*, vagy *ajánlás* révén-, a számára legszimpatikusabb
 nyelvvel vághasson bele a tanulásba. Ezt a listát folyamatosan igyekszünk bővíteni.
 
